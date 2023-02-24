@@ -1,0 +1,11 @@
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\bin\Debug\FlappyBirrd.exe.config
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\bin\Debug\FlappyBirrd.exe
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\bin\Debug\FlappyBirrd.pdb
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\obj\Debug\FlappyBirrd.csproj.AssemblyReference.cache
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\obj\Debug\FlappyBirrd.csproj.SuggestedBindingRedirects.cache
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\obj\Debug\FlappyBirrd.Form1.resources
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\obj\Debug\FlappyBirrd.Properties.Resources.resources
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\obj\Debug\FlappyBirrd.csproj.GenerateResource.cache
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\obj\Debug\FlappyBirrd.csproj.CoreCompileInputs.cache
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\obj\Debug\FlappyBirrd.exe
+C:\Users\eden7\source\repos\FlappyBirrd\FlappyBirrd\obj\Debug\FlappyBirrd.pdb
